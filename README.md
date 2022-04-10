@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joycutter-bizzrocket
 - 👀 I’m interested in ...learning new things and expanding my horizon of Knowledge 
-- 🌱 I’m currently learning... Data analytics 
+- 🌱 I’m currently learning... Data science  
 - 💞️ I’m looking to collaborate on ... different projects 
 - 📫 How to reach me ...through my email
 
